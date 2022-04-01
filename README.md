@@ -29,7 +29,7 @@ Voici quelques grand objectifs développé dans ce projet
 >   <th>MySQL</th>
 ></tr>
 ><tr>
->   <th>HIbernate </th>
+>   <th>Hibernate </th>
 ></tr>
 ><tr>
 >   <th>Java </th>
@@ -50,7 +50,7 @@ Voici quelques grand objectifs développé dans ce projet
 >    <th>JavaScript</th>
 ></tr>
 > <tr>
->   <th>CSS 3</th>
+>   <th>HTML5 / CSS 3</th>
 ></tr>
 ></table>
 
