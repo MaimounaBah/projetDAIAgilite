@@ -1,7 +1,7 @@
 <h1 align="center"> Gestion Des Appels </h1> <br>
 <p align="center">
   <a href="#">
-    <img alt="GitPoint" title="GitPoint" src="D:\DernierProjet\projetDAIAgilite\azTech.png" width="100">
+    <img alt="GitPoint" title="GitPoint" src="D://DernierProjet//projetDAIAgilite//azTech.png" width="100">
   </a>
 </p>
 
