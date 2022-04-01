@@ -1,14 +1,3 @@
-<h1 align="center"> Gestion Des Appels </h1> <br>
-<p align="center">
-  <a href="#">
-    <img alt="GitPoint" title="GitPoint" src="D://DernierProjet//projetDAIAgilite//azTech.png" width="100">
-  </a>
-</p>
-
-<p style="text-align : center;">
-    Réalisé par AzTech
-</p>
-
 ## Table des matières
 
 - [Introduction](#introduction)
@@ -16,26 +5,21 @@
 - [Technologies utilisées](#technologiesutilisees)
 - [Procédure d'Utilisation de l'Application](#procedure-Utilisation-de-application)
 - [Conclusion](#conclusion)
-- [Equipe](#equipe)
+- [L'Equipe AzTech](#equipe)
 
 ## Introduction
 
-Dans la cadre de la validation de notre master 2 MIAGE IPM, nous avons eu à mettre en place un projet de Gestion des Appels. Ce projet a eu pour principal but non seulement de faciliter aux enseignants le pointage des présents, absents et rétard des étudiants dans une séance de cours. Mais aussi de permettre aux étudiants  de justifier leur absence pour la séance. 
+Dans la cadre de la validation de notre ***Master 2 MIAGE IPM***, nous, l'équipe **AzTech** avons eu à mettre en place un projet de Gestion des Appels. Ce projet a eu pour principal but non seulement de faciliter aux enseignants le pointage des présents, absents et rétard des étudiants dans une séance de cours. Mais aussi de permettre aux étudiants  de justifier leur absence pour la séance. 
 
 
 ## Grands Objectifs
 
 Voici quelques grand objectifs développé dans ce projet 
 
-* Permettre aux enseignants de faire facilement l'appel 
-
-* Permettre aux étudiants leur absence pour un cours donné
-
+* Permettre aux enseignants de faire facilement l'appel depuis leur Emploi du Temps
+* Permettre aux étudiants de  justifier leur absence pour un cours donné
 * Notifier la scolarité d'un dépôt de justificatif par un étudiant 
-
-* Permettre à la scolarité de valider les justificatifs d'absences des étudiants 
-
-  
+* Permettre à la scolarité de valider les justificatifs d'absences des étudiants ...
 
 
 ## Technologies utilisées 
@@ -50,6 +34,9 @@ Voici quelques grand objectifs développé dans ce projet
 ><tr>
 >   <th>Java </th>
 ></tr>
+><tr>   
+>    <th>API JavaMail</th>
+></tr>
 ><tr>
 >   <th>Servlet</th>
 ></tr>
@@ -63,10 +50,10 @@ Voici quelques grand objectifs développé dans ce projet
 >    <th>JavaScript</th>
 ></tr>
 ><tr>
->   <th>JavaScript</th>
+>   <th>API JavaMail</th>
 ></tr>
 > <tr>
->   <th>CSS</th>
+>   <th>CSS 3</th>
 ></tr>
 ></table>
 
@@ -79,7 +66,7 @@ Pour tester notre application chez vous, il vous suffit d'avoir un SGBD comme My
 3. Importez le dans Netbeans 
 4. Assurez-vous que votre serveur Apache qui héberge MySQL est lancé pour pouvoir lire la BD
 5. Allez prendre les informations de connexion d'un utilisateur pour tester l'application
-6. Vous pouvez vous connecter soit en tant que Enseignant, Etudiant ou Scolarite
+6. Vous pouvez vous connecter soit en tant que Enseignant, Etudiant ou Scolarité
 
 ## Conclusion 
 
