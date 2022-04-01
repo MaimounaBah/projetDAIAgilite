@@ -64,6 +64,7 @@ Pour tester notre application chez vous, il vous suffit d'avoir un SGBD comme My
 4. Assurez-vous que votre serveur Apache qui héberge MySQL est lancé pour pouvoir lire la BD
 5. Allez prendre les informations de connexion d'un utilisateur pour tester l'application
 6. Vous pouvez vous connecter soit en tant que Enseignant, Etudiant ou Scolarité
+**NB** Si toutefois vous souhaitez re-exécuter le fichier d'insertion des données dans la base de données et tester d'autres fonctions sur la console, vous pouvez allez dans miage->metier ProgrammePrincipale et décommenter les fonctions qui permettent l'insertion des données dans la BD et tester les différentes fonctions qui sont en commentaire.
 
 ## Conclusion 
 
