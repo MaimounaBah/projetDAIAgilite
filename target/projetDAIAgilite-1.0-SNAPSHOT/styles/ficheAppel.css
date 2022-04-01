@@ -1,0 +1,162 @@
+
+body{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+#all{
+    /*width : 1500px;*/
+    height: 1000px; 
+    width: 100%
+}
+
+#menu{
+    float: left;
+    /*width: 300px;*/
+    width: 20%;
+    height: 630px;
+    background-color: beige;
+    padding: 5px;
+}
+#contenu{
+    float: left;
+    /*width: 900px;*/
+    width: 70%;
+    height: 630px;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+#fiche{
+   /*width: 630px;*/ 
+   width: 75%;
+   background-color: linen;
+    
+}
+#fiche img{
+    border-radius: 30%;
+}
+#fiche a{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+#actionFiche{
+    margin-right: 80px;
+    text-decoration: none;
+}
+
+#actionFiche input[type="button"]{
+    
+}
+
+#menuHaut{
+   /*width: 100px;*/
+   width: 12%;
+   height: 200px;
+   background-color: beige;
+   margin-left: 10px;
+ }
+ #menuHaut a{
+     text-decoration: none;
+     margin-right: 50px;  
+ }
+ 
+ #menuHaut #leMenu{
+     text-align: left;    
+ }
+ 
+ #menuHaut img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#menuDroit{
+    background-color: coral;
+    float: right;
+    /*width: 150px;*/
+    width: 15%;
+    margin-right: 30px;
+    margin-top: -170px;
+}
+#menuDroit a{
+    text-decoration: none;
+    
+}
+td{
+    text-align: left;
+    padding : 8px;
+}
+#menuDeconnect{
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    margin-top: 305px;
+    padding: 10px;
+    display: flex;
+}
+#menuDeconnect a{
+    text-decoration: none;
+}
+
+
+table{
+    
+}
+
+/*Moda*/l   
+        /* Styling modal */
+        .modal:before {
+            content: '';
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+             }
+          
+        .modal-dialog {
+            display: inline-block;
+            vertical-align: middle;
+        }
+          
+        .modal .modal-content {
+            padding: 15px 15px 15px 15px;
+            -webkit-animation-name: modal-animation;
+            -webkit-animation-duration: 0.5s;
+            animation-name: modal-animation;
+            animation-duration: 0.5s;
+            text-align: center;
+        }
+          
+        @-webkit-keyframes modal-animation {
+            from {
+                top: -100px;
+                opacity: 0;
+            }
+             to {
+                top: 0px;
+                opacity: 1;
+            }
+        }
+          
+        @keyframes modal-animation {
+            from {
+                top: -100px;
+                opacity: 0;
+            }
+            to {
+                top: 0px;
+                opacity: 1;
+            }
+        }
+        
+        /*Recherche étudiant*/
+        #rechercheEtu{        
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }

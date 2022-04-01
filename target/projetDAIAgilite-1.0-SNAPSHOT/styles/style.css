@@ -1,0 +1,50 @@
+/*Ombre de la barre de navigation*/
+.bg-dark{
+    box-shadow: 0 2px 20px rgba(8,7,16,0.6);
+}
+
+.jumbotron{
+    margin-top: 30px;
+}
+
+h3{
+    padding: 30px 10px 10px;
+}
+
+.form-select{
+    background-color: #343a40;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding-right: 5px;
+}
+
+.present:checked + .form-check-label {
+    background-color: #ADECBF;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 2px;
+    color: #009933;
+}
+
+.retard:checked + .form-check-label {
+    background-color: #F5E099;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 2px;
+    color: #ff9900;
+}
+
+.absent:checked + .form-check-label {
+    background-color: #F5AE99;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 2px;
+    color: #cc3300;
+}
+
+.checkSupprime:checked + .custom-checkbox {
+    background-color: #FFC4B3;
+    padding: 3px 7px;
+    border-radius: 50%;
+}
