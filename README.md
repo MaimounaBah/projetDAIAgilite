@@ -49,9 +49,6 @@ Voici quelques grand objectifs développé dans ce projet
 ><tr> 
 >    <th>JavaScript</th>
 ></tr>
-><tr>
->   <th>API JavaMail</th>
-></tr>
 > <tr>
 >   <th>CSS 3</th>
 ></tr>
